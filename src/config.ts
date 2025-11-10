@@ -26,14 +26,14 @@ Achievements:
 🥈 Second Place for Best Project in the CDMX Region at Tecnológico de Monterrey’s Startup Now competition.         
 🌟 Highlighted as an innovative solution for optimizing musical study through AI and data-driven personalization.`,
       link: "https://trainear-275d8.web.app",
-      skills: ["Flutter", "Android", "IOS", "Firestore", "AI integration", "Autentication","+10,000 downloads"],
+      skills: ["Flutter", "Android", "IOS", "Firestore", "AI integration", "Autentication","+10,000 downloads" , "Real Work App"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "Loyalty application",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Web-based loyalty application developed with Flutter for a Mexican food services company. The app generates virtual loyalty cards, allows users to earn points on each visit, and integrates Firebase for authentication, remote database, QR code scanning, email delivery, and user management. Additional features include customer search, basic statistics, and the ability to add or convert points.",
+      link: "https://www.canva.com/design/DAGKqwnU4Ws/XLZAsb2zv9I-twEiB-iQWA/view?utm_content=DAGKqwnU4Ws&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hda7e9c950a#8",
+      skills: ["Flutter", "HTML", "CSS", "JavaScript", "FIRESTORE", "Email Sending", "Real Work App"],
     },
     {
       name: "ExtensionKit",
