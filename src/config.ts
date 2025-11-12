@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Darío Peña",
-  title: "Software Engineering Student & Develope",
+  title: "Software Engineering Student & Developer",
   description: "Portfolio website of Darío Peña",
   accentColor: "#000000",
   social: {
@@ -26,27 +26,30 @@ Achievements:
 🥈 Second Place for Best Project in the CDMX Region at Tecnológico de Monterrey’s Startup Now competition.         
 🌟 Highlighted as an innovative solution for optimizing musical study through AI and data-driven personalization.`,
       link: "https://trainear-275d8.web.app",
-      skills: ["Flutter", "Android", "IOS", "Firestore", "AI integration", "Autentication","+10,000 downloads" , "Real Work App"],
+      skills: ["Flutter", "Android", "IOS", "Firestore", "AI integration", "Autentication","+10,000 downloads" , "Real Work App",  "Figma"],
+      pictures: ["../src/assets/train1.jpg","../src/assets/train2.png","../src/assets/train3.png"],
     },
     {
       name: "Loyalty application",
       description:
         "Web-based loyalty application developed with Flutter for a Mexican food services company. The app generates virtual loyalty cards, allows users to earn points on each visit, and integrates Firebase for authentication, remote database, QR code scanning, email delivery, and user management. Additional features include customer search, basic statistics, and the ability to add or convert points.",
       link: "https://www.canva.com/design/DAGKqwnU4Ws/XLZAsb2zv9I-twEiB-iQWA/view?utm_content=DAGKqwnU4Ws&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hda7e9c950a#8",
-      skills: ["Flutter", "HTML", "CSS", "JavaScript", "FIRESTORE", "Email Sending", "Real Work App"],
+      skills: ["Flutter", "HTML", "CSS", "JavaScript", "Firestore", "Email Sending", "Real Work App", "Figma"],
+      pictures: ["../src/assets/loy3.png","../src/assets/loy2.png","../src/assets/loy1.png"],
     },
     {
-      name: "ExtensionKit",
+      name: "PCC — Medical Emergency Reporting System",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "A functional web prototype developed for the Cuajimalpa borough in Mexico City to support emergency protection services. The goal of this application is to enable faster and easier emergency reporting through a web interface, helping digitalize the process and generate actionable statistics. The application includes user authentication, database integration, backend connectivity, form creation, user management, and other essential features. It was built using React for the frontend and Node.js with MongoDB for the backend and data storage.",
+      link: "https://www.canva.com/design/DAG4acoe5bk/ALXKtH82qt-vl1Wx7y7Glg/view?utm_content=DAG4acoe5bk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7dda80a230",
+      skills: ["React", "Node.js", "MongoDB", "TSX", "JS","HTML", "Team Work",  "Figma"],
+       pictures: ["../src/assets/emer3.png","../src/assets/emer2.png","../src/assets/emer1.png"],
     },
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
+      company: "Aguas Susi",
+      title: "Developer]",
       dateRange: "Jan 2022 - Present",
       bullets: [
         "Led development of microservices architecture serving 1M+ users",
@@ -77,13 +80,12 @@ Achievements:
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Instituto Tecnológico de Estudios Superiores de Monterrey (Tec de Monterrey)",
+      degree: "B.S. in Computer Engineering and Technology",
+      dateRange: "2023 - 2027",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+        "100% Scholarship (Líderes del Mañanana Program)",
+        "Arranger and musician in the Campus Music Ensemble",
       ],
     },
     {
