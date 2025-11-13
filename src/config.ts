@@ -35,7 +35,7 @@ Achievements:
         "Web-based loyalty application developed with Flutter for a Mexican food services company. The app generates virtual loyalty cards, allows users to earn points on each visit, and integrates Firebase for authentication, remote database, QR code scanning, email delivery, and user management. Additional features include customer search, basic statistics, and the ability to add or convert points.",
       link: "https://www.canva.com/design/DAGKqwnU4Ws/XLZAsb2zv9I-twEiB-iQWA/view?utm_content=DAGKqwnU4Ws&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hda7e9c950a#8",
       skills: ["Flutter", "HTML", "CSS", "JavaScript", "Firestore", "Email Sending", "Real Work App", "Figma"],
-      pictures: ["./loy3.png","./loy2.png","./loy1.png"],
+      pictures: ["/loy3.png","/loy2.png","/loy1.png"],
     },
     {
       name: "PCC — Medical Emergency Reporting System",
