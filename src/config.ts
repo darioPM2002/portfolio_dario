@@ -27,7 +27,7 @@ Achievements:
 🌟 Highlighted as an innovative solution for optimizing musical study through AI and data-driven personalization.`,
       link: "https://trainear-275d8.web.app",
       skills: ["Flutter", "Android", "IOS", "Firestore", "AI integration", "Autentication","+10,000 downloads" , "Real Work App",  "Figma"],
-      pictures: ["../src/assets/train1.jpg","../src/assets/train2.png","../src/assets/train3.png"],
+      pictures: ["/train1.jpg","/train2.png","/train3.png"],
     },
     {
       name: "Loyalty application",
@@ -43,7 +43,7 @@ Achievements:
         "A functional web prototype developed for the Cuajimalpa borough in Mexico City to support emergency protection services. The goal of this application is to enable faster and easier emergency reporting through a web interface, helping digitalize the process and generate actionable statistics. The application includes user authentication, database integration, backend connectivity, form creation, user management, and other essential features. It was built using React for the frontend and Node.js with MongoDB for the backend and data storage.",
       link: "https://www.canva.com/design/DAG4acoe5bk/ALXKtH82qt-vl1Wx7y7Glg/view?utm_content=DAG4acoe5bk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7dda80a230",
       skills: ["React", "Node.js", "MongoDB", "TSX", "JS","HTML", "Team Work",  "Figma"],
-       pictures: ["../src/assets/emer3.png","../src/assets/emer2.png","../src/assets/emer1.png"],
+       pictures: ["/emer3.png","/emer2.png","/emer1.png"],
     },
     {
       name: "NINESHIONS — Web Videogame JS",
@@ -51,7 +51,7 @@ Achievements:
         "A video game developed entirely from scratch using JavaScript, including the creation of the game engine, physics, frame rendering, and controller interactions. This university project followed the Scrum methodology, involving a full requirements analysis and iterative development. The game connects to a MySQL database through a custom API built with Node.js.",
       link: "https://www.canva.com/design/DAG4iLBFjKQ/Wv5RBCoBhN7xQQqIkvsmkw/view?utm_content=DAG4iLBFjKQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9b367c9fdc",
       skills: ["JS","HTML","CSS", "mySQL","Node.js", "SCRUM","Agile","Figma", "School Work"],
-       pictures: ["../src/assets/nine1.jpeg","../src/assets/nine2.jpeg","../src/assets/nine3.jpeg"],
+       pictures: ["/nine1.jpeg","/nine2.jpeg","/nine3.jpeg"],
     },
   ],
   experience: [
