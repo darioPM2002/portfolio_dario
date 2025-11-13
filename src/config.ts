@@ -7,7 +7,7 @@ export const siteConfig = {
     email: "studiopm2002@gmail.com",
     linkedin: "https://www.linkedin.com/in/dar%C3%ADo-cuauht%C3%A9moc-pe%C3%B1a-mariano-5231a029b/",
     instagram: "https://www.instagram.com/pm.dario/",
-    github: "https://github.com/RyanFitzgerald",
+    github: "https://github.com/darioPM2002",
   },
   aboutMe:
     "Computer Engineering student with experience in developing educational mobile applications. Passionate about programming and cross-platform software design, with a strong focus on user experience and interface quality. Skilled in building efficient, scalable, and visually appealing applications. UI/UX principles, and agile development methodologies. Highly motivated to learn new technologies and contribute to innovative projects that make a real impact.",
@@ -45,38 +45,53 @@ Achievements:
       skills: ["React", "Node.js", "MongoDB", "TSX", "JS","HTML", "Team Work",  "Figma"],
        pictures: ["../src/assets/emer3.png","../src/assets/emer2.png","../src/assets/emer1.png"],
     },
+    {
+      name: "NINESHIONS — Web Videogame JS",
+      description:
+        "A video game developed entirely from scratch using JavaScript, including the creation of the game engine, physics, frame rendering, and controller interactions. This university project followed the Scrum methodology, involving a full requirements analysis and iterative development. The game connects to a MySQL database through a custom API built with Node.js.",
+      link: "https://www.canva.com/design/DAG4iLBFjKQ/Wv5RBCoBhN7xQQqIkvsmkw/view?utm_content=DAG4iLBFjKQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9b367c9fdc",
+      skills: ["JS","HTML","CSS", "mySQL","Node.js", "SCRUM","Agile","Figma", "School Work"],
+       pictures: ["../src/assets/nine1.jpeg","../src/assets/nine2.jpeg","../src/assets/nine3.jpeg"],
+    },
   ],
   experience: [
+   
     {
+      company: "Independent Project – TrainEar App",
+      title: "Founder & Full Stack Developer",
+      dateRange: "2025",
+      bullets: [
+        "Developed and launched a full mobile application available on Google Play and App Store.",
+    "Designed the complete product lifecycle — from prototype and UI/UX design to production release.",
+    "Implemented secure user authentication and remote database synchronization with Firebase and Isar.",
+    "Integrated AI-powered features to personalize user experience and performance feedback.",
+    "Built custom algorithms for adaptive difficulty, scoring systems, and data-driven learning progression.",
+    "Implemented monetization strategies including in-app subscriptions and ads.",
+    "Managed deployment, analytics, and continuous updates independently."
+      ],
+    },
+     {
       company: "Aguas Susi",
-      title: "Developer]",
-      dateRange: "Jan 2022 - Present",
+      title: "Web Developer",
+      dateRange: "2023",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "Designed and developed a complete web application for generating virtual IDs to accumulate user points.",
+        "Implemented both frontend and backend functionality from scratch, including database integration and user validation.",
+        "Deployed and maintained the application on a live web server ensuring full functionality and accessibility.",
+        "Delivered the project independently, covering all stages from planning to deployment."
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
-      bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
-      ],
-    },
-    {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
-      bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
-      ],
-    },
+       company: "1450 Ediciones",
+  title: "Public Relations & Sales Representative",
+  dateRange: "2020 – 2022",
+  bullets: [
+    "Promoted and sold art pieces and books to institutions, galleries, and individual clients.",
+    "Served as a liaison between the publishing house and partner companies, artists, and collectors.",
+    "Coordinated logistics and provided on-site support for cultural and promotional events.",
+    "Contributed to brand visibility and client relations through strategic communication and outreach efforts."
+  ],
+    }
   ],
   education: [
     {
@@ -88,15 +103,15 @@ Achievements:
         "Arranger and musician in the Campus Music Ensemble",
       ],
     },
-    {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
-      ],
-    },
+   {
+  school: "Universidad Nacional Autónoma de México (UNAM) – Facultad de Música",
+  degree: "Bachelor’s Degree in Musical Composition (paused)",
+  dateRange: "2020 – 2023",
+  achievements: [
+    "Completed three years of coursework focused on composition for live performance and mixed media.",
+    "Developed strong foundations in harmony, orchestration, and contemporary composition techniques.",
+    "Maintained a GPA of 9.3 out of 10 before pausing studies to focus on professional projects.",
+  ],
+},
   ],
 };
